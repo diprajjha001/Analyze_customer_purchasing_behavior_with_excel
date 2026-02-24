@@ -42,5 +42,33 @@ You can use this dataset for:
    ```bash
    git clone https://github.com/your-username/sample-data-documentation.git
    Open the SAMPLE DATA.xlsx file using Excel or any compatible tool.
+2.Open the SAMPLE DATA.xlsx file using Excel or any compatible tool.
+3.Import the data into your preferred environment (Python, R, SQL, etc.).
 
-Import the data into your preferred environment (Python, R, SQL, etc.).
+##⚠️ Disclaimer
+
+This dataset is provided for educational and testing purposes only. It does not represent real individuals, organizations, or transactions.
+
+##📄 License
+
+This project is released under the MIT License. You are free to use, modify, and distribute it with attribution.
+
+##🤝 Contributions
+
+Contributions, suggestions, and improvements are welcome. Feel free to open an issue or submit a pull request.
+
+
+**Description:**
+```markdown
+This initial release includes a structured sample dataset designed for testing, learning, and demonstration purposes.
+
+### Highlights
+- Clean and well-organized sample data
+- Safe for public and educational use
+- Easy to integrate with analysis and development workflows
+- Suitable for Excel, Python, R, and database testing
+
+### Files Included
+- SAMPLE DATA.xlsx
+
+Future updates may include additional datasets, documentation improvements, and example scripts.

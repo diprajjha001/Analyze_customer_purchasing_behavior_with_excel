@@ -72,3 +72,11 @@ This initial release includes a structured sample dataset designed for testing, 
 - SAMPLE DATA.xlsx
 
 Future updates may include additional datasets, documentation improvements, and example scripts.
+
+sample-data
+dataset
+data-analysis
+testing
+excel
+documentation
+learning

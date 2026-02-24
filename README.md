@@ -3,10 +3,46 @@ A structured sample dataset designed for testing, analysis, and demonstration pu
 # Sample Data Documentation
 
 ## 📌 Overview
-This repository contains a structured sample dataset intended for demonstration, testing, and analysis purposes. The document provides organized data that can be used by developers, analysts, students, and researchers for learning, prototyping, and validating workflows without relying on sensitive or production data.
 
-The dataset is designed to be easy to understand, reusable, and adaptable across multiple use cases such as data analysis, reporting, visualization, and application testing.
+This project provides a structured sample dataset designed to analyze customer purchasing behavior, sales performance, and delivery efficiency. The data supports both high-level business KPIs and deeper analytical questions commonly used in reporting and dashboarding scenarios.
 
+🔢 Key Performance Indicators (KPIs)
+
+The dataset enables calculation and analysis of the following KPIs:
+
+Total Orders – Overall number of orders placed
+
+Total Quantity – Total units sold across all orders
+
+Total Amount – Aggregate sales value
+
+Average Rating – Customer satisfaction based on ratings
+
+Average Days to Deliver – Order fulfillment and delivery performance
+
+❓ Business Questions Addressed
+
+Using this dataset, the project helps answer key business and customer insights, including:
+
+Sales and order trends over the last 13 weeks
+
+Customer buying behavior and purchase patterns
+
+Average purchase quantity per customer or order
+
+Identification of popular products
+
+Overall gender split of customers
+
+Geographic distribution of customers
+
+Order shipping and delivery timelines
+
+Customer satisfaction and happiness levels based on ratings
+
+🎯 Project Goal
+
+The goal of this project is to demonstrate how raw transactional data can be transformed into meaningful insights through KPI tracking and exploratory analysis. It is suitable for learning, testing, dashboard creation, and analytical demonstrations without using real or sensitive customer data.
 ---
 
 ## 📂 Repository Contents

@@ -41,3 +41,6 @@ You can use this dataset for:
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/your-username/sample-data-documentation.git
+   Open the SAMPLE DATA.xlsx file using Excel or any compatible tool.
+
+Import the data into your preferred environment (Python, R, SQL, etc.).

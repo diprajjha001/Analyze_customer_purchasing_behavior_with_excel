@@ -9,35 +9,22 @@ This project provides a structured sample dataset designed to analyze customer p
 🔢 Key Performance Indicators (KPIs)
 
 The dataset enables calculation and analysis of the following KPIs:
-
 Total Orders – Overall number of orders placed
-
 Total Quantity – Total units sold across all orders
-
 Total Amount – Aggregate sales value
-
 Average Rating – Customer satisfaction based on ratings
-
 Average Days to Deliver – Order fulfillment and delivery performance
 
 ❓ Business Questions Addressed
 
 Using this dataset, the project helps answer key business and customer insights, including:
-
 Sales and order trends over the last 13 weeks
-
 Customer buying behavior and purchase patterns
-
 Average purchase quantity per customer or order
-
 Identification of popular products
-
 Overall gender split of customers
-
 Geographic distribution of customers
-
 Order shipping and delivery timelines
-
 Customer satisfaction and happiness levels based on ratings
 
 🎯 Project Goal
@@ -78,7 +65,9 @@ You can use this dataset for:
    ```bash
    git clone https://github.com/your-username/sample-data-documentation.git
    Open the SAMPLE DATA.xlsx file using Excel or any compatible tool.
+
 2.Open the SAMPLE DATA.xlsx file using Excel or any compatible tool.
+
 3.Import the data into your preferred environment (Python, R, SQL, etc.).
 
 ##⚠️ Disclaimer
